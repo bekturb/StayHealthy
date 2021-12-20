@@ -1,0 +1,367 @@
+@media (max-width: 1024px) {
+  .container {
+    width: 992px; }
+
+  #hero .hero__video--img {
+    width: 950px;
+    height: 420px; }
+
+  #about .about__name {
+    font-size: 45px; }
+  #about .about__title {
+    font-size: 42px; }
+  #about .about__subtitle {
+    font-size: 13px; }
+  #about .about__progress--row h1 {
+    font-size: 60px; } }
+@media (max-width: 992px) {
+  .container {
+    width: 90%; }
+
+  #hero .hero__video--img {
+    width: 950px;
+    height: 420px; }
+
+  #about .about__name {
+    font-size: 45px; }
+  #about .about__title {
+    font-size: 42px; }
+  #about .about__subtitle {
+    font-size: 13px; }
+  #about .about__progress--row h1 {
+    font-size: 60px; } }
+@media (max-width: 768px) {
+  .container {
+    width: 90%; }
+
+  #hero .hero__title {
+    font-size: 70px; }
+  #hero .hero__subtitle {
+    font-size: 15px; }
+  #hero .hero__video--img {
+    width: 720px;
+    height: 400px; }
+  #hero .hero__video__play {
+    margin-top: -260px;
+    margin-left: 340px;
+    width: 70px;
+    height: 70px; }
+
+  #about .about__name {
+    font-size: 35px; }
+  #about .about__title {
+    font-size: 25px; }
+  #about .about__subtitle {
+    font-size: 11px; }
+  #about .about__progress--row h1 {
+    font-size: 40px; }
+  #about .about__progress--row__first {
+    margin-top: 21px; }
+  #about .about img {
+    width: 400px;
+    height: 500px; }
+
+  #testimonials .testimonials__text {
+    width: 250px;
+    font-size: 38px; }
+  #testimonials .testimonials__subtitle {
+    width: 350px;
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center; }
+  #testimonials .testimonials__line {
+    width: 340px; }
+
+  #faq .faq__title {
+    font-size: 30px; }
+  #faq .faq__row--payment {
+    width: 250px;
+    height: 121px;
+    font-size: 16px; }
+  #faq .faq__row--icon {
+    margin-left: 100px; } }
+@media (max-width: 576px) {
+  .container {
+    width: 90%; }
+
+  #header .header__navbar--nav {
+    display: none; }
+
+  #hero .hero__title {
+    font-size: 50px; }
+  #hero .hero__subtitle {
+    font-size: 12px; }
+  #hero .hero__video--img {
+    width: 540px;
+    height: 340px; }
+  #hero .hero__video__play {
+    margin-top: -220px;
+    margin-left: 240px;
+    width: 60px;
+    height: 60px; }
+
+  #features .features__title {
+    font-size: 42px; }
+  #features .features__subtitle {
+    font-weight: 200;
+    font-size: 15px;
+    line-height: 25px; }
+  #features .features__row--text {
+    font-size: 20px;
+    line-height: 52px; }
+  #features .features__row--subtext {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 52px; }
+  #features .features__row--list__basic {
+    font-size: 18px; }
+  #features .features__row--list__menu {
+    font-size: 10px;
+    line-height: 22px; }
+
+  #partners .partners__title {
+    font-size: 42px; }
+  #partners .partners__subtitle {
+    font-size: 15px; }
+
+  #about .about__name {
+    font-size: 35px; }
+  #about .about__title {
+    font-size: 25px; }
+  #about .about__subtitle {
+    font-size: 11px; }
+  #about .about__progress--row h1 {
+    font-size: 40px; }
+  #about .about__progress--row__first {
+    margin-top: 21px; }
+  #about .about img {
+    width: 300px;
+    height: 500px; }
+
+  #testimonials .testimonials__text {
+    width: 250px;
+    font-size: 38px; }
+  #testimonials .testimonials__title {
+    width: 300px;
+    font-size: 30px; }
+  #testimonials .testimonials__subtitle {
+    width: 250px; }
+  #testimonials .testimonials__line {
+    width: 240px; }
+
+  #faq .faq__title {
+    font-size: 20px; }
+  #faq .faq__row--payment {
+    width: 150px;
+    height: 111px;
+    font-size: 14px; }
+  #faq .faq__row--icon {
+    margin-left: 50px;
+    width: 40px;
+    height: 40px; }
+
+  #business .business__basic--sentence {
+    font-weight: 300;
+    font-size: 17px; }
+  #business .business__title {
+    font-size: 27px; }
+  #business .business__subtitle {
+    font-size: 17px; }
+  #business .business__btn {
+    width: 225px;
+    height: 43px;
+    font-weight: 300;
+    font-size: 14px; }
+  #business .business img {
+    width: 300px;
+    height: 340px; } }
+@media (max-width: 414px) {
+  .container {
+    width: 90%; }
+
+  #header .header__logo--img img {
+    width: 70px;
+    height: 52px; }
+  #header .header__navbar--nav {
+    display: none; }
+  #header .header__button--btn {
+    padding: 2px 10px;
+    font-size: 12px; }
+
+  #hero .hero__title {
+    font-size: 40px;
+    line-height: 58px; }
+  #hero .hero__subtitle {
+    font-size: 10px;
+    line-height: 20px; }
+  #hero .hero__video--img {
+    width: 390px;
+    height: 300px; }
+  #hero .hero__video__play {
+    margin-top: -190px;
+    margin-left: 170px;
+    width: 45px;
+    height: 45px; }
+    #hero .hero__video__play img {
+      width: 18px;
+      height: 25px; }
+  #hero .hero__buttons--btn {
+    padding: 5px 10px;
+    font-size: 14px; }
+  #hero .hero__buttons--explore {
+    padding: 5px 10px;
+    font-size: 14px; }
+
+  #features .features__title {
+    font-size: 40px; }
+  #features .features__subtitle {
+    font-weight: 200;
+    font-size: 10px;
+    line-height: 25px; }
+  #features .features__row--text {
+    font-size: 20px;
+    line-height: 52px; }
+  #features .features__row--subtext {
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 52px; }
+  #features .features__row--list__basic {
+    font-size: 18px; }
+  #features .features__row--list__menu {
+    font-size: 10px;
+    line-height: 22px; }
+
+  #partners .partners__title {
+    font-size: 32px; }
+  #partners .partners__subtitle {
+    font-size: 12px; }
+  #partners .partners__games {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: normal;
+    justify-content: space-between;
+    align-items: center; }
+  #partners .partners__gameapp {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: normal;
+    justify-content: space-between;
+    align-items: center; }
+
+  #about .about {
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: normal;
+    justify-content: center;
+    align-items: center; }
+    #about .about__name {
+      font-size: 35px; }
+    #about .about__title {
+      font-size: 25px; }
+    #about .about__subtitle {
+      font-size: 11px; }
+    #about .about__progress {
+      justify-content: center; }
+      #about .about__progress--row h1 {
+        font-size: 40px; }
+      #about .about__progress--row__first {
+        margin-top: 21px; }
+    #about .about img {
+      width: 250px;
+      height: 400px;
+      margin-left: -40px; }
+
+  #testimonials .testimonials {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center; }
+    #testimonials .testimonials__img {
+      width: 86px;
+      height: 86px; }
+    #testimonials .testimonials__text {
+      width: 250px;
+      font-size: 25px; }
+    #testimonials .testimonials__title {
+      padding-top: 20px;
+      width: 250px;
+      font-size: 23px; }
+    #testimonials .testimonials__subtitle {
+      width: 250px; }
+    #testimonials .testimonials__line {
+      width: 240px; }
+
+  #faq .faq__title {
+    font-size: 20px; }
+  #faq .faq__row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center; }
+    #faq .faq__row--payment {
+      margin: 20px 0;
+      width: 170px;
+      height: 120px;
+      font-size: 14px; }
+    #faq .faq__row--icon {
+      margin-left: 60px;
+      margin-top: -30px;
+      width: 40px;
+      height: 40px; }
+
+  #business .business {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column; }
+    #business .business__basic--sentence {
+      font-weight: 300;
+      font-size: 17px; }
+    #business .business__title {
+      font-size: 27px; }
+    #business .business__subtitle {
+      font-size: 17px; }
+    #business .business__btn {
+      width: 225px;
+      height: 43px;
+      font-weight: 300;
+      font-size: 14px; }
+    #business .business img {
+      width: 300px;
+      height: 340px; }
+
+  #footer .footer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; }
+    #footer .footer__foot--pages {
+      margin: 40px 0; } }
+@media (max-width: 376px) {
+  .container {
+    width: 90%; }
+
+  #hero .hero__video--img {
+    width: 350px;
+    height: 250px; }
+  #hero .hero__video__play {
+    margin-top: -160px;
+    margin-left: 160px;
+    width: 40px;
+    height: 40px; }
+    #hero .hero__video__play img {
+      width: 15px;
+      height: 22px; }
+
+  #business .business img {
+    margin-left: -50px; } }
+
+/*# sourceMappingURL=media.css.map */
